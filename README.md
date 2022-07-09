@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Lucas 🖐️
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=LukazAlvez&show_icons=true&theme=dracula&count_private=true)
+
 
 ## Tecnologias que estou a me aperfeiçoar
 
