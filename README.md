@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Lucas 🖐️
 
- <div>
+<div>
   <a href="https://github.com/LukazAlvez">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LukazAlvez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukazAlvez&layout=compact&langs_count=7&theme=dracula"/>
@@ -17,3 +17,4 @@
 </div><br/>
 
 Apaixonado por tecnologia e games❤️.
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
